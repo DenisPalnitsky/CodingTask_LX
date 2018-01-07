@@ -2,7 +2,7 @@ package com.company;
 
 public class BTNComparer {
 
-    public static boolean compare(BTN a, BTN b){
+    public static boolean areEqual(BTN a, BTN b){
 
        return traverseTree ( a, b );
     }
