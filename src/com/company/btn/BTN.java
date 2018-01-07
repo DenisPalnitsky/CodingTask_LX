@@ -1,4 +1,4 @@
-package com.company;
+package com.company.btn;
 
 class BTN {
     public int val;

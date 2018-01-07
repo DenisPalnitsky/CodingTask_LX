@@ -1,4 +1,4 @@
-package com.company;
+package com.company.btn;
 
 import org.junit.Assert;
 import org.junit.Test;
